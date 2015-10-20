@@ -293,8 +293,8 @@ angular.module("hmisPortal")
                  url = "https://dhis.moh.go.tz/api/analytics.xls?dimension=dx:"+id+"&dimension=pe:"+$scope.selectedPeriod+"&dimension=ou:LEVEL-3;"+$scope.selectedOrgUnit+"&displayProperty=NAME&tableLayout=true&columns=dx&rows=pe;ou";
             }
             $http.get(url,{withCredentials: true, params : {
-                j_username : "tuzoengelbert",
-                j_password : "TUZO2015"
+                j_username : " ",
+                j_password : " "
 
             },'Content-Type': 'application/octet-stream'}).success(function(data){
                 var a = document.createElement('a');
@@ -315,8 +315,8 @@ angular.module("hmisPortal")
             }
             cardObject.chartObject.loading = true;
             $http.get($scope.url,{withCredentials: true, params : {
-                j_username : "tuzoengelbert",
-                j_password : "TUZO2015"
+                j_username : " ",
+                j_password : " "
 
             }}).success(function(data){
                 $scope.area = [];
