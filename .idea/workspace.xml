@@ -43,7 +43,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="0" selection-start="5725" selection-end="5725" vertical-scroll-proportion="-5.1149426" vertical-offset="1607" max-vertical-offset="2232">
+            <state line="1" column="26" selection-start="42" selection-end="42" vertical-scroll-proportion="3.3333333" vertical-offset="108" max-vertical-offset="2250">
               <folding>
                 <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -54,7 +54,7 @@
       <file leaf-file-name="routes.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/routes.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="32" selection-start="1931" selection-end="1933" vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="1512">
+            <state line="12" column="48" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1512">
               <folding />
             </state>
           </provider>
@@ -72,16 +72,7 @@
       <file leaf-file-name="dashboard.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/dashboard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="62" selection-start="0" selection-end="3974" vertical-scroll-proportion="-2.5925925" vertical-offset="2" max-vertical-offset="1026">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="malaria.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/malaria.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="51" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="882">
+            <state line="1" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="882">
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -93,16 +84,43 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mainCtrl.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="malaria.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/malaria.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="29" selection-start="922" selection-end="922" vertical-scroll-proportion="-10.703704" vertical-offset="35" max-vertical-offset="882">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainCtrl.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/controllers/mainCtrl.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="296" column="31" selection-start="13578" selection-end="13578" vertical-scroll-proportion="0.3478261" vertical-offset="2252" max-vertical-offset="4392">
+            <state line="292" column="64" selection-start="13268" selection-end="13268" vertical-scroll-proportion="-11.4" vertical-offset="1998" max-vertical-offset="4392">
               <folding>
                 <element signature="e#384#1279#0" expanded="false" />
                 <element signature="e#2038#3125#0" expanded="false" />
                 <element signature="e#3733#4820#0" expanded="false" />
                 <element signature="e#5464#6551#0" expanded="false" />
                 <element signature="e#7178#8265#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dashboardCtrl.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controllers/dashboardCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="398" column="62" selection-start="26370" selection-end="26373" vertical-scroll-proportion="-0.18768328" vertical-offset="7094" max-vertical-offset="7776">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#24224#24813#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -141,7 +159,6 @@
         <option value="$PROJECT_DIR$/downloads.html" />
         <option value="$PROJECT_DIR$/profiles.html" />
         <option value="$PROJECT_DIR$/sample.html" />
-        <option value="$PROJECT_DIR$/assets/js/routes.js" />
         <option value="$PROJECT_DIR$/views/district_profiles.html" />
         <option value="$PROJECT_DIR$/views/downloads.html" />
         <option value="$PROJECT_DIR$/views/hiv.html" />
@@ -153,12 +170,14 @@
         <option value="$PROJECT_DIR$/views/tb.html" />
         <option value="$PROJECT_DIR$/views/tracer_medicine.html" />
         <option value="$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css" />
-        <option value="$PROJECT_DIR$/views/dashboard.html" />
         <option value="$PROJECT_DIR$/data.json" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/views/malaria.html" />
         <option value="$PROJECT_DIR$/partials/left_filter.html" />
         <option value="$PROJECT_DIR$/controllers/mainCtrl.js" />
+        <option value="$PROJECT_DIR$/assets/js/routes.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/controllers/dashboardCtrl.js" />
       </list>
     </option>
   </component>
@@ -255,13 +274,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hmis_portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hmis_portal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VSSM" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -323,10 +360,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2846154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2846154" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32948717" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -562,23 +599,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/routes.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="32" selection-start="1931" selection-end="1933" vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="1512">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/libs/materialize/css/materialize.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="1" selection-start="146569" selection-end="146569" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="486">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="62" selection-start="0" selection-end="3974" vertical-scroll-proportion="-2.5925925" vertical-offset="2" max-vertical-offset="1026">
           <folding />
         </state>
       </provider>
@@ -605,28 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="0" selection-start="5725" selection-end="5725" vertical-scroll-proportion="-5.1149426" vertical-offset="1607" max-vertical-offset="2232">
-          <folding>
-            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/malaria.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="51" selection-start="1039" selection-end="1039" vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="882">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/left_filter.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="118" selection-start="2489" selection-end="2489" vertical-scroll-proportion="-16.037037" vertical-offset="125" max-vertical-offset="846">
@@ -638,13 +639,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/mainCtrl.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="296" column="31" selection-start="13578" selection-end="13578" vertical-scroll-proportion="0.3478261" vertical-offset="2252" max-vertical-offset="4392">
+        <state line="292" column="64" selection-start="13268" selection-end="13268" vertical-scroll-proportion="-11.4" vertical-offset="1998" max-vertical-offset="4392">
           <folding>
             <element signature="e#384#1279#0" expanded="false" />
             <element signature="e#2038#3125#0" expanded="false" />
             <element signature="e#3733#4820#0" expanded="false" />
             <element signature="e#5464#6551#0" expanded="false" />
             <element signature="e#7178#8265#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/malaria.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="29" selection-start="922" selection-end="922" vertical-scroll-proportion="-10.703704" vertical-offset="35" max-vertical-offset="882">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="48" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1512">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="26" selection-start="42" selection-end="42" vertical-scroll-proportion="3.3333333" vertical-offset="108" max-vertical-offset="2250">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="16" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="882">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#1;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/dashboardCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="398" column="62" selection-start="26370" selection-end="26373" vertical-scroll-proportion="-0.18768328" vertical-offset="7094" max-vertical-offset="7776">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#24224#24813#0" expanded="false" />
           </folding>
         </state>
       </provider>
